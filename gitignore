@@ -1,0 +1,10 @@
+#dependences
+/node_modules
+
+#testing
+/coverage
+
+#prodactions
+/bulds
+
+*.psd
